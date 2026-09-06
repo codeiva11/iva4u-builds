@@ -1,0 +1,86 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/codeiva11/iva4u-builds/builds/BollyFlix.cs3",
+        "status": 1,
+        "version": 15,
+        "name": "BollyFlix",
+        "internalName": "BollyFlix",
+        "authors": [
+            "codeiva11"
+        ],
+        "description": "BollyFlix - Download HD Movies & Web Series",
+        "fileSize": 74815,
+        "repositoryUrl": "https://github.com/codeiva11/iva4u-builds",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://pub-7552829be8684482812b2b7bbeb7088c.r2.dev/appicon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-7bf89ba36d6f856114309543b7717645136c5fb5b96a3ed4e0f4170233278548"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/codeiva11/iva4u-builds/builds/HDhub4u.cs3",
+        "status": 1,
+        "version": 15,
+        "name": "HDhub4u",
+        "internalName": "HDhub4u",
+        "authors": [
+            "codeiva11"
+        ],
+        "description": "HDhub4u - Download HD Movies & Web Series",
+        "fileSize": 67691,
+        "repositoryUrl": "https://github.com/codeiva11/iva4u-builds",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://new2.hdhub4u.fo/wp-content/uploads/2021/05/hdhub4ulogo.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-2fb8746d2ba82f9fb6f815a65f27fb27684f0adfd5d0bbf3b882ecb74e096d1f"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/codeiva11/iva4u-builds/builds/MoviesDrive.cs3",
+        "status": 1,
+        "version": 21,
+        "name": "MoviesDrive",
+        "internalName": "MoviesDrive",
+        "authors": [
+            "codeiva11"
+        ],
+        "description": "MoviesDrive - Download HD Movies & Web Series in 4K",
+        "fileSize": 70310,
+        "repositoryUrl": "https://github.com/codeiva11/iva4u-builds",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://new1.moviesdrive.surf/wp-content/uploads/2026/01/cropped-Gemini_Generated_Image_qt93aqt93aqt93aq-1-192x192.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-ae101b44d89d53618d6af6d9db83149fbfeb257560ff7b72a407f907059d8082"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/codeiva11/iva4u-builds/builds/TheMoviesFlix.cs3",
+        "status": 1,
+        "version": 7,
+        "name": "TheMoviesFlix",
+        "internalName": "TheMoviesFlix",
+        "authors": [
+            "codeiva11"
+        ],
+        "description": "TheMoviesFlix - Download HD Movies & Web Series in 480p, 720p, 1080p",
+        "fileSize": 74390,
+        "repositoryUrl": "https://github.com/codeiva11/iva4u-builds",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://themoviesflix.ceo/wp-content/uploads/2025/09/moviesflix-favicon-300x300.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-eaa56c3cb8a13c63bac6c4f1737c60dac21a021720ed38ee249c22db08033015"
+    }
+]
